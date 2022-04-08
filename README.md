@@ -1,6 +1,4 @@
-# Museung Kim
-
-## 😎 Wanna Be A Good Developer 😎
+# 😎 Wanna Be A Good Developer 😎  
 
 <!--
 **M00M00M00/M00M00M00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
