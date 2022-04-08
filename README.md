@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😎 Wanna Be A Good Developer 😎
 
 <!--
 **M00M00M00/M00M00M00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mu3980)](https://solved.ac/mu3980)
